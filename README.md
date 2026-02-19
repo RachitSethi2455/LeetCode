@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0009-palindrome-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RachitSethi2455/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

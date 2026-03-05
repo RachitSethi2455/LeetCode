@@ -6,6 +6,7 @@ class Solution {
                 cleaned.append(Character.toLowerCase(c));
             }
         }
+        //comparing two pointer
         int left = 0, right = cleaned.length() - 1;
         while (left < right) {
             if (cleaned.charAt(left) != cleaned.charAt(right)) {

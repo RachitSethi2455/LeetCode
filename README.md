@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RachitSethi2455/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/RachitSethi2455/LeetCode/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2485-find-the-pivot-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RachitSethi2455/LeetCode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

@@ -106,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/2485-find-the-pivot-integer) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RachitSethi2455/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RachitSethi2455/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

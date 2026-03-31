@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RachitSethi2455/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RachitSethi2455/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RachitSethi2455/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
+| [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |

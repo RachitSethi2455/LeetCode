@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RachitSethi2455/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/RachitSethi2455/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RachitSethi2455/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/RachitSethi2455/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RachitSethi2455/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/RachitSethi2455/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RachitSethi2455/LeetCode/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/2485-find-the-pivot-integer) |

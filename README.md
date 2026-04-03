@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RachitSethi2455/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RachitSethi2455/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/RachitSethi2455/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitSethi2455/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RachitSethi2455/LeetCode/tree/master/0035-search-insert-position) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RachitSethi2455/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/RachitSethi2455/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RachitSethi2455/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/RachitSethi2455/LeetCode/tree/master/0125-valid-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RachitSethi2455/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

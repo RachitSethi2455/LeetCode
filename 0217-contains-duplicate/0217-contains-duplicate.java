@@ -7,7 +7,7 @@ class Solution {
                 }
             }
         }*/
-        HashSet<Integer> set = new HashSet<>();
+        /*HashSet<Integer> set = new HashSet<>();
         int i =0;
         while(i < nums.length){
             if(set.contains(nums[i])){
@@ -17,6 +17,11 @@ class Solution {
                 set.add(nums[i]);
                 i++;
             }
+        }*/
+        HashSet<Integer> set = new HashSet<>();
+        for(int num : nums){
+            if(set.contains(num)) return true;
+            else set.add(num);
         }
         return false;
     }

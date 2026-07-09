@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitSethi2455/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RachitSethi2455/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RachitSethi2455/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RachitSethi2455/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RachitSethi2455/LeetCode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RachitSethi2455/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RachitSethi2455/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RachitSethi2455/LeetCode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |

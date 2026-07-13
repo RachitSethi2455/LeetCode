@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RachitSethi2455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/RachitSethi2455/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/RachitSethi2455/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RachitSethi2455/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitSethi2455/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RachitSethi2455/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/RachitSethi2455/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RachitSethi2455/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RachitSethi2455/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RachitSethi2455/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RachitSethi2455/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/RachitSethi2455/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RachitSethi2455/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RachitSethi2455/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RachitSethi2455/LeetCode/tree/master/0217-contains-duplicate) |

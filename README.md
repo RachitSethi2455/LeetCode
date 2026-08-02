@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RachitSethi2455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RachitSethi2455/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
+| [0877-stone-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RachitSethi2455/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RachitSethi2455/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RachitSethi2455/LeetCode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/RachitSethi2455/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RachitSethi2455/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RachitSethi2455/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RachitSethi2455/LeetCode/tree/master/0050-powx-n) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

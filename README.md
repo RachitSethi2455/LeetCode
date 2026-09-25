@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RachitSethi2455/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/RachitSethi2455/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RachitSethi2455/LeetCode/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/RachitSethi2455/LeetCode/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RachitSethi2455/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |

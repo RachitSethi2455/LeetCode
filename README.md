@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/RachitSethi2455/LeetCode/tree/master/0877-stone-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RachitSethi2455/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RachitSethi2455/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RachitSethi2455/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RachitSethi2455/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RachitSethi2455/LeetCode/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/RachitSethi2455/LeetCode/tree/master/0575-distribute-candies) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RachitSethi2455/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |

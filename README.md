@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/RachitSethi2455/LeetCode/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/RachitSethi2455/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/RachitSethi2455/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1757-recyclable-and-low-fat-products](https://github.com/RachitSethi2455/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## String
 |  |
 | ------- |
